@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "services": "Services",
+    "about": "À propos",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "common": {
+    "search": "Rechercher...",
+    "readMore": "Lire la suite",
+    "learnMore": "En savoir plus",
+    "contactUs": "Nous contacter",
+    "requestQuote": "Demander un devis",
+    "download": "Télécharger",
+    "submit": "Envoyer",
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "success": "Succès !",
+    "close": "Fermer"
+  },
+  "home": {
+    "hero": {
+      "title": "Excellence en Matériel Médical ORL",
+      "subtitle": "Claritas fournit des équipements médicaux de haute qualité pour les professionnels de la santé",
+      "cta": "Découvrir nos produits"
+    },
+    "featuredProducts": "Produits vedettes",
+    "newsletter": {
+      "title": "Restez informé",
+      "subtitle": "Inscrivez-vous à notre newsletter pour recevoir nos dernières actualités",
+      "placeholder": "Votre adresse email",
+      "button": "S'inscrire",
+      "success": "Merci pour votre inscription !",
+      "error": "Erreur lors de l'inscription"
+    }
+  },
+  "products": {
+    "title": "Nos Produits",
+    "filterByCategory": "Filtrer par catégorie",
+    "allCategories": "Toutes les catégories",
+    "noProducts": "Aucun produit trouvé",
+    "technicalSpecs": "Spécifications techniques",
+    "downloadPDF": "Télécharger la fiche produit",
+    "requestQuote": "Demander un devis",
+    "gallery": "Galerie",
+    "reviews": "Avis clients"
+  },
+  "blog": {
+    "title": "Blog",
+    "latestArticles": "Derniers articles",
+    "readingTime": "min de lecture",
+    "relatedArticles": "Articles similaires",
+    "noArticles": "Aucun article trouvé",
+    "pagination": {
+      "previous": "Précédent",
+      "next": "Suivant",
+      "page": "Page"
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Notre équipe est à votre disposition",
+    "form": {
+      "name": "Nom complet",
+      "email": "Email",
+      "phone": "Téléphone",
+      "message": "Message",
+      "send": "Envoyer le message",
+      "success": "Message envoyé avec succès !",
+      "error": "Erreur lors de l'envoi"
+    },
+    "info": {
+      "address": "Adresse",
+      "phone": "Téléphone",
+      "email": "Email",
+      "hours": "Horaires d'ouverture"
+    }
+  },
+  "devis": {
+    "title": "Demande de devis",
+    "form": {
+      "name": "Nom complet",
+      "email": "Email",
+      "phone": "Téléphone",
+      "company": "Entreprise",
+      "product": "Produit",
+      "quantity": "Quantité",
+      "message": "Message (optionnel)",
+      "submit": "Envoyer la demande",
+      "success": "Demande envoyée avec succès !",
+      "error": "Erreur lors de l'envoi"
+    }
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Des solutions complètes pour les professionnels de santé"
+  },
+  "about": {
+    "title": "À propos de Claritas",
+    "subtitle": "Votre partenaire en matériel médical ORL"
+  },
+  "footer": {
+    "description": "Claritas est spécialisée dans la fourniture de matériel médical ORL de haute qualité.",
+    "quickLinks": "Liens rapides",
+    "contact": "Contact",
+    "followUs": "Suivez-nous",
+    "copyright": "© 2024 Claritas. Tous droits réservés."
+  }
+}

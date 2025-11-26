@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "services": "Services",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "common": {
+    "search": "Search...",
+    "readMore": "Read more",
+    "learnMore": "Learn more",
+    "contactUs": "Contact us",
+    "requestQuote": "Request a quote",
+    "download": "Download",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "close": "Close"
+  },
+  "home": {
+    "hero": {
+      "title": "Excellence in ENT Medical Equipment",
+      "subtitle": "Claritas provides high-quality medical equipment for healthcare professionals",
+      "cta": "Discover our products"
+    },
+    "featuredProducts": "Featured Products",
+    "newsletter": {
+      "title": "Stay Informed",
+      "subtitle": "Subscribe to our newsletter to receive our latest news",
+      "placeholder": "Your email address",
+      "button": "Subscribe",
+      "success": "Thank you for subscribing!",
+      "error": "Subscription error"
+    }
+  },
+  "products": {
+    "title": "Our Products",
+    "filterByCategory": "Filter by category",
+    "allCategories": "All categories",
+    "noProducts": "No products found",
+    "technicalSpecs": "Technical specifications",
+    "downloadPDF": "Download product sheet",
+    "requestQuote": "Request a quote",
+    "gallery": "Gallery",
+    "reviews": "Customer reviews"
+  },
+  "blog": {
+    "title": "Blog",
+    "latestArticles": "Latest articles",
+    "readingTime": "min read",
+    "relatedArticles": "Related articles",
+    "noArticles": "No articles found",
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next",
+      "page": "Page"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Our team is at your disposal",
+    "form": {
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "send": "Send message",
+      "success": "Message sent successfully!",
+      "error": "Error sending message"
+    },
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Opening hours"
+    }
+  },
+  "devis": {
+    "title": "Quote Request",
+    "form": {
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "company": "Company",
+      "product": "Product",
+      "quantity": "Quantity",
+      "message": "Message (optional)",
+      "submit": "Send request",
+      "success": "Request sent successfully!",
+      "error": "Error sending request"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Complete solutions for healthcare professionals"
+  },
+  "about": {
+    "title": "About Claritas",
+    "subtitle": "Your partner in ENT medical equipment"
+  },
+  "footer": {
+    "description": "Claritas specializes in providing high-quality ENT medical equipment.",
+    "quickLinks": "Quick links",
+    "contact": "Contact",
+    "followUs": "Follow us",
+    "copyright": "© 2024 Claritas. All rights reserved."
+  }
+}

@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-white text-gray-900;
+  }
+}
+
+@layer components {
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .btn-primary {
+    @apply bg-claritas-orange hover:bg-claritas-orange-dark text-white font-semibold py-3 px-6 rounded-lg transition-colors duration-200;
+  }
+
+  .btn-secondary {
+    @apply bg-white hover:bg-gray-50 text-claritas-orange border-2 border-claritas-orange font-semibold py-3 px-6 rounded-lg transition-colors duration-200;
+  }
+
+  .input-field {
+    @apply w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-claritas-orange focus:border-transparent outline-none transition-all;
+  }
+
+  .card {
+    @apply bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300;
+  }
+
+  .section-title {
+    @apply text-3xl md:text-4xl font-bold text-gray-900 mb-4;
+  }
+
+  .section-subtitle {
+    @apply text-lg text-gray-600 mb-8;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
